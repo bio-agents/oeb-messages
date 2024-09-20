@@ -1,8 +1,3 @@
-{
-  "main.js": {
-    "file": "oeb-messages.cjs.js",
-    "name": "main",
-    "src": "main.js",
-    "isEntry": true
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3af3993b2e3606b50ca4fc4400139800e6804a8eb9b573f8b586eaeb776eaa1
+size 119
